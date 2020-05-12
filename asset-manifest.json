@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/quill-drag-and-drop-demo/static/css/main.f42a3b06.chunk.css",
-    "main.js": "/quill-drag-and-drop-demo/static/js/main.85d303b2.chunk.js",
-    "main.js.map": "/quill-drag-and-drop-demo/static/js/main.85d303b2.chunk.js.map",
+    "main.css": "/quill-drag-and-drop-demo/static/css/main.38aa8ad2.chunk.css",
+    "main.js": "/quill-drag-and-drop-demo/static/js/main.62aedcd2.chunk.js",
+    "main.js.map": "/quill-drag-and-drop-demo/static/js/main.62aedcd2.chunk.js.map",
     "runtime-main.js": "/quill-drag-and-drop-demo/static/js/runtime-main.7c14beea.js",
     "runtime-main.js.map": "/quill-drag-and-drop-demo/static/js/runtime-main.7c14beea.js.map",
     "static/css/2.3c515868.chunk.css": "/quill-drag-and-drop-demo/static/css/2.3c515868.chunk.css",
-    "static/js/2.21948dfb.chunk.js": "/quill-drag-and-drop-demo/static/js/2.21948dfb.chunk.js",
-    "static/js/2.21948dfb.chunk.js.map": "/quill-drag-and-drop-demo/static/js/2.21948dfb.chunk.js.map",
+    "static/js/2.27d4790c.chunk.js": "/quill-drag-and-drop-demo/static/js/2.27d4790c.chunk.js",
+    "static/js/2.27d4790c.chunk.js.map": "/quill-drag-and-drop-demo/static/js/2.27d4790c.chunk.js.map",
     "index.html": "/quill-drag-and-drop-demo/index.html",
-    "precache-manifest.64796fa94db79cef54f560035508c10e.js": "/quill-drag-and-drop-demo/precache-manifest.64796fa94db79cef54f560035508c10e.js",
+    "precache-manifest.e7fce33de29bcbe0ca69517f644f180c.js": "/quill-drag-and-drop-demo/precache-manifest.e7fce33de29bcbe0ca69517f644f180c.js",
     "service-worker.js": "/quill-drag-and-drop-demo/service-worker.js",
     "static/css/2.3c515868.chunk.css.map": "/quill-drag-and-drop-demo/static/css/2.3c515868.chunk.css.map",
-    "static/css/main.f42a3b06.chunk.css.map": "/quill-drag-and-drop-demo/static/css/main.f42a3b06.chunk.css.map",
-    "static/js/2.21948dfb.chunk.js.LICENSE.txt": "/quill-drag-and-drop-demo/static/js/2.21948dfb.chunk.js.LICENSE.txt"
+    "static/css/main.38aa8ad2.chunk.css.map": "/quill-drag-and-drop-demo/static/css/main.38aa8ad2.chunk.css.map",
+    "static/js/2.27d4790c.chunk.js.LICENSE.txt": "/quill-drag-and-drop-demo/static/js/2.27d4790c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7c14beea.js",
     "static/css/2.3c515868.chunk.css",
-    "static/js/2.21948dfb.chunk.js",
-    "static/css/main.f42a3b06.chunk.css",
-    "static/js/main.85d303b2.chunk.js"
+    "static/js/2.27d4790c.chunk.js",
+    "static/css/main.38aa8ad2.chunk.css",
+    "static/js/main.62aedcd2.chunk.js"
   ]
 }
