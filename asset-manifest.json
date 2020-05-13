@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/quill-drag-and-drop-demo/static/css/main.6c3d6659.chunk.css",
+    "main.css": "/quill-drag-and-drop-demo/static/css/main.1edb3e2b.chunk.css",
     "main.js": "/quill-drag-and-drop-demo/static/js/main.67ebf32c.chunk.js",
     "main.js.map": "/quill-drag-and-drop-demo/static/js/main.67ebf32c.chunk.js.map",
     "runtime-main.js": "/quill-drag-and-drop-demo/static/js/runtime-main.7c14beea.js",
@@ -9,17 +9,17 @@
     "static/js/2.07724860.chunk.js": "/quill-drag-and-drop-demo/static/js/2.07724860.chunk.js",
     "static/js/2.07724860.chunk.js.map": "/quill-drag-and-drop-demo/static/js/2.07724860.chunk.js.map",
     "index.html": "/quill-drag-and-drop-demo/index.html",
-    "precache-manifest.a426378f42cfa8b3b4845701f3466e4d.js": "/quill-drag-and-drop-demo/precache-manifest.a426378f42cfa8b3b4845701f3466e4d.js",
+    "precache-manifest.08916d20eb2c7af7b21f285022c0df51.js": "/quill-drag-and-drop-demo/precache-manifest.08916d20eb2c7af7b21f285022c0df51.js",
     "service-worker.js": "/quill-drag-and-drop-demo/service-worker.js",
     "static/css/2.3c515868.chunk.css.map": "/quill-drag-and-drop-demo/static/css/2.3c515868.chunk.css.map",
-    "static/css/main.6c3d6659.chunk.css.map": "/quill-drag-and-drop-demo/static/css/main.6c3d6659.chunk.css.map",
+    "static/css/main.1edb3e2b.chunk.css.map": "/quill-drag-and-drop-demo/static/css/main.1edb3e2b.chunk.css.map",
     "static/js/2.07724860.chunk.js.LICENSE.txt": "/quill-drag-and-drop-demo/static/js/2.07724860.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7c14beea.js",
     "static/css/2.3c515868.chunk.css",
     "static/js/2.07724860.chunk.js",
-    "static/css/main.6c3d6659.chunk.css",
+    "static/css/main.1edb3e2b.chunk.css",
     "static/js/main.67ebf32c.chunk.js"
   ]
 }

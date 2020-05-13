@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/quill-drag-and-drop-demo/precache-manifest.a426378f42cfa8b3b4845701f3466e4d.js"
+  "/quill-drag-and-drop-demo/precache-manifest.08916d20eb2c7af7b21f285022c0df51.js"
 );
 
 self.addEventListener('message', (event) => {
