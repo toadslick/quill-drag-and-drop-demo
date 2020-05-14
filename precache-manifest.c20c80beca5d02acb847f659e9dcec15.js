@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "34a3aad52c0b0ae27450e808b41fb1ee",
+    "revision": "ee750ac3db32193a96cef42d7f11e495",
     "url": "/quill-drag-and-drop-demo/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/quill-drag-and-drop-demo/static/css/2.3c515868.chunk.css"
   },
   {
-    "revision": "5dbc54536e4b1742c008",
+    "revision": "6c615b92728bb15f0f2c",
     "url": "/quill-drag-and-drop-demo/static/css/main.1edb3e2b.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/quill-drag-and-drop-demo/static/js/2.07724860.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5dbc54536e4b1742c008",
-    "url": "/quill-drag-and-drop-demo/static/js/main.67ebf32c.chunk.js"
+    "revision": "6c615b92728bb15f0f2c",
+    "url": "/quill-drag-and-drop-demo/static/js/main.ddf4abd5.chunk.js"
   },
   {
     "revision": "1588d765f4c3d417ca06",
